@@ -211,13 +211,13 @@ if page == "Home":
         
 Dalam dunia kimia analisis, memahami dan menghitung konsentrasi suatu larutan merupakan keterampilan dasar yang sangat penting. Materi seperti stoikiometri, pengenceran,, hingga perhitungan massa zat , menjadi bagian tak terpisahkan dari praktikum maupun kegiatan analisis di laboratorium. Namun, tidak sedikit pelajar atau praktisi yang merasa kesulitan ketika harus melakukan perhitungan ini secara manual, apalagi saat menghadapi data yang kompleks atau variatif.
 
-Sebagai respon terhadap kebutuhan tersebut, kami menghadirkan **COC - Calculate Of Concentration **, sebuah aplikasi berbasis web yang dirancang khusus untuk membantu pengguna dalam melakukan berbagai perhitungan kimia larutan dengan cepat dan akurat. Aplikasi ini mencakup fitur:
+Sebagai respon terhadap kebutuhan tersebut, kami menghadirkan COC - Calculate Of Concentration , sebuah aplikasi berbasis web yang dirancang khusus untuk membantu pengguna dalam melakukan berbagai perhitungan kimia larutan dengan cepat dan akurat. Aplikasi ini mencakup fitur:
 
 * Penimbangan berdasarkan konsentrasi
 * Pengenceran larutan
 * Informasi atom relatif (Mr)
 
-COC dikembangkan sebagai bagian dari **Tugas Akhir LPK (Laporan Praktikum Kimia)** dengan tujuan memberikan kontribusi nyata dalam pembelajaran dan praktik laboratorium, khususnya di bidang kimia analisis. Dengan antarmuka yang sederhana dan fungsional, diharapkan COC dapat menjadi alat bantu yang efektif bagi mahasiswa, guru, analis, maupun siapa saja yang sedang mempelajari atau bekerja dengan kimia larutan.
+COC dikembangkan sebagai bagian dari **Tugas Akhir LPK (Laporan Praktikum Kimia) dengan tujuan memberikan kontribusi nyata dalam pembelajaran dan praktik laboratorium, khususnya di bidang kimia analisis. Dengan antarmuka yang sederhana dan fungsional, diharapkan COC dapat menjadi alat bantu yang efektif bagi mahasiswa, guru, analis, maupun siapa saja yang sedang mempelajari atau bekerja dengan kimia larutan.
 
 manfaatkan aplikasi ini untuk memperkuat pemahaman konsep dan meningkatkan ketelitian dalam perhitungan kimia.
 Selamat menggunakan, dan semoga bermanfaat!

@@ -217,7 +217,7 @@ Sebagai respon terhadap kebutuhan tersebut, kami menghadirkan COC - Calculate Of
 * Pengenceran larutan
 * Informasi atom relatif (Mr)
 
-COC dikembangkan sebagai bagian dari **Tugas Akhir LPK (Laporan Praktikum Kimia) dengan tujuan memberikan kontribusi nyata dalam pembelajaran dan praktik laboratorium, khususnya di bidang kimia analisis. Dengan antarmuka yang sederhana dan fungsional, diharapkan COC dapat menjadi alat bantu yang efektif bagi mahasiswa, guru, analis, maupun siapa saja yang sedang mempelajari atau bekerja dengan kimia larutan.
+COC dikembangkan sebagai bagian dari **Tugas Akhir LPK (Laporan Praktikum Kimia)** dengan tujuan memberikan kontribusi nyata dalam pembelajaran dan praktik laboratorium, khususnya di bidang kimia analisis. Dengan antarmuka yang sederhana dan fungsional, diharapkan COC dapat menjadi alat bantu yang efektif bagi mahasiswa, guru, analis, maupun siapa saja yang sedang mempelajari atau bekerja dengan kimia larutan.
 
 manfaatkan aplikasi ini untuk memperkuat pemahaman konsep dan meningkatkan ketelitian dalam perhitungan kimia.
 Selamat menggunakan, dan semoga bermanfaat!

@@ -205,13 +205,13 @@ with st.sidebar:
 page = st.session_state['page']
 
 if page == "Home":
-    st.title("COC - Calculate Of Concentration")
+    st.title("COC - Calculate Of Concentration💻✨")
     st.subheader("Selamat datang di aplikasi COC")
     st.write("""
         
 Dalam dunia kimia analisis, memahami dan menghitung konsentrasi suatu larutan merupakan keterampilan dasar yang sangat penting. Materi seperti stoikiometri, pengenceran,, hingga perhitungan massa zat , menjadi bagian tak terpisahkan dari praktikum maupun kegiatan analisis di laboratorium. Namun, tidak sedikit pelajar atau praktisi yang merasa kesulitan ketika harus melakukan perhitungan ini secara manual, apalagi saat menghadapi data yang kompleks atau variatif.
 
-Sebagai respon terhadap kebutuhan tersebut, kami menghadirkan **COC - Calculate Of Concentration 💻✨**, sebuah aplikasi berbasis web yang dirancang khusus untuk membantu pengguna dalam melakukan berbagai perhitungan kimia larutan dengan cepat dan akurat. Aplikasi ini mencakup fitur:
+Sebagai respon terhadap kebutuhan tersebut, kami menghadirkan **COC - Calculate Of Concentration **, sebuah aplikasi berbasis web yang dirancang khusus untuk membantu pengguna dalam melakukan berbagai perhitungan kimia larutan dengan cepat dan akurat. Aplikasi ini mencakup fitur:
 
 * Penimbangan berdasarkan konsentrasi
 * Pengenceran larutan

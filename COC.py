@@ -230,7 +230,7 @@ Selamat menggunakan, dan semoga bermanfaat!
 
 elif page == "Penimbangan":
     st.header("Penimbangan Zat")
-    rumus = st.text_input("Masukkan rumus senyawa (contoh: H2SO4, NaOH, KMnO4)")
+    rumus = st.text_input("Masukkan rumus senyawa (contoh: K2Cr2O7, NaOH, KMnO4)")
     
     satuan = st.selectbox("Pilih satuan konsentrasi:", [
         "Molaritas (mol/L)", 
